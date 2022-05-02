@@ -1,0 +1,230 @@
+@media screen and (max-width: 1310px) {
+	.first_half{
+		width: 100%;
+		float: none;
+	}	
+	.second_half{
+		width: 100%;
+		float: none;
+		margin-left: 0px;
+		margin-top:30px;
+	}
+
+	.message label{
+
+
+		top: 70px;
+
+		footer ul li a {
+
+			font-size: 22px;
+
+		}
+
+	}
+}
+
+
+
+@media screen and (max-width: 980px) {
+	.nav{
+		display:none;
+	}
+
+	.mobile_menu_icon{
+		display:block;
+		float:right;
+		color: #fff;
+		font-size:30px;
+ 		cursor:pointer;
+	}
+
+	.container{
+		width: 95%;
+		margin:auto;
+
+	}
+
+	.single_team_box svg{
+		width: 10px;
+		height: 10px;
+
+	}
+
+	.single_skill_box img{
+		width: 10px;
+		height: 10px;
+
+	}
+
+	.testimonial_img img {
+		height: 80px;
+		width: 80px;
+		border-radius: 50%;
+	}
+
+
+
+	footer ul li a {
+
+		font-size: 12px;
+
+		line-height: 2;
+	}
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 800px) {
+	.sevrice_box{
+		width:45%;
+		margin-top: 30px;
+
+	}
+
+	.single_team_box{ 
+		width: 45%;
+		margin-top: 30px;
+	}
+	
+	.sinlgle_skill_box {
+		width: 45%;
+
+		margin-top: 30px;
+
+	}
+	
+	.team_boxs,.skills_box {
+		margin-top: 50px;
+	}
+
+	.skill_header {
+		margin: 0px 87px;
+	}
+
+
+	.section-header {
+
+		margin: 0px 163px;
+	}
+
+	.single_portfolio_box img {
+		width: 63%;
+
+	}
+
+
+	.testimonial_img img {
+		height: 90px;
+		width: 90px;
+
+
+	}
+
+
+
+	.single_portfolio_box {
+		width: 100%;
+		float: none;
+
+	}
+
+	.single_team_box {
+  width: 45%;
+}
+}
+
+@media screen and (max-width: 660px) {
+
+	.single_testimonial_box {
+		width: 100%;
+
+	}
+
+	.testimonial_img {
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
+
+	.testimonial_contant {
+		text-align: center;
+		width: 100%;
+		color: #fff;
+		float: none;
+
+		margin-top: 15px;
+	}
+
+	.testimonial_contant h5 {
+
+		margin-top: 0px;
+	}
+
+
+
+}
+
+@media screen and (max-width: 960px){
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 480px){
+	.header_content h2 {
+
+		font-size: 24px;
+	}
+
+	.sevrice_box {
+		width: 100%;
+		margin-top: 30px;
+	}
+
+	.section-header {
+		margin: 0px 87px;
+	}
+
+	.single_team_box {
+		width: 100%;
+		float: none;
+
+		margin-top: 50px;
+	}
+
+	.social_links {
+		margin-top: 10px;
+	}
+
+}
+
+
+
+@media screen and (max-width: 375px){
+
+	.brown_btn {
+		width: 186px;
+
+	}
+
+
+	.sinlgle_skill_box {
+    width: 100%;
+ 
+}
+
+
+.skill_header {
+    margin: 0px 51px;
+}
+
+}
